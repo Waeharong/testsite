@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าแรก</title>
+</head>
+<body bgcolor="#bfd5ff">
+    
+    <img src="img/ชื่อร้าน.png" alt="" width="100%" height="130 px">
+    <div>ร้านขายเสื้อผ้าออนไลน์</div>
+    <ul>
+        <li><a href="page 1.html">สินค้า</li>
+        <li><a href="page 2.html">วิธีการสั่งซื้อ</a></li>
+        <li><a href="page 3.html">วิธีการชำระเงิน</a></li>
+        <li><a href="page 4.html">แผนที่</a></li>
+        <li><a href="page 5.html">ติดต่อเรา</a></li>
+        <li><a href="page 6.html">ระบบสมัครสมาชิก</a></li>
+    </ul>
+      
+      <div><font color="red">เสื้อผ้าแฟชั่น จากโรงงาน ราคาประหยัด</font></div><br> 
+         
+      <img src="img/ถูกจริง.png" align="left" alt="" width="30%" height="90 px"> 
+      <img src="img/ปู.png" align="middle" alt="" width="40%" height="100 px">  
+      <img src="img/ประหยัดจริง.png" align="right" alt="" width="30%" height="90 px">  
+      <br> 
+      <img src="img/หุ่น.png" align="right" alt="" width="20%" height="100 px"> 
+      <img src="img/หุ่น.png" align="left" alt="" width="20%" height="100 px"> 
+       <br><br><br><br><br>
+      
+     
+      <b><div align="middle"><font color="red">ขอบคุณทุกท่านที่มาใช้บริการ</b></div></font>
+      
+
+           
+    
+</body>
+</html>
